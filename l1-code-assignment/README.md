@@ -6,11 +6,12 @@ You can read more about the fetch API in [the Mozilla documentation](https://dev
 
 Remember to run `npm install` to download the library inside the project.
 
+## Requirements
+
+You will need Python 3.5 or later to run index.py.
+
 ## Running the project
 
-You can write your code in as many separate files as you want.
-You should import your code inside the `src/index.js` file, which you can run using the project's _test_ script:
-
 ```bash
-npm run test
+python3 index.py
 ```
